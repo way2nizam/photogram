@@ -4,7 +4,13 @@ A grid based photo gallery web site created using create-react-app, google fireb
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## components
+
+1. Title
+2. UploadForm
+3. ProgressBar
+4. Model
+5. ImageGrid
 
 
 
