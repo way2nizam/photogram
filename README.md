@@ -12,7 +12,58 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 4. Model
 5. ImageGrid
 
+## firebse Config
 
+1.config
+
+## hooks
+
+1. useStorage
+2. useFirestore
+
+### 'Title'
+
+A simple functional component named "Title", in which h1,h2 and paragraph tag is used.
+
+### 'UploadForm'
+
+Functional Component with useState hook for file and error. e = event object,
+
+### 'ProgressBar'
+
+Functional component with useState and useEffect hooks and framer motion library.
+
+### 'Modal'
+
+Functional component with framer-motion library. when a user click on any image a pop out image is shown.
+
+### 'ImageGrid'
+
+Functional component with framer-motion library. how all images look after upload
+
+### 'firebase config'
+
+web app's Firebase configuration and use of "firebase storage" and "firestore"
+
+### 'useStorage'
+
+Functional Component with use of "firebase storage" and "firestore".
+
+ref - method from firebase.storage
+
+it returns a reference.
+
+put - method from firebase.storage.reference
+
+it return object
+
+on - method from firebase.storage.uploadtask
+
+getDownloadUrl - fetch a long lived download url
+
+### 'useFirestore'
+
+Functional Component with use of "useState" "forEach" method, "firebase storage" and "firestore".
 
 In the project directory, you can run:
 
